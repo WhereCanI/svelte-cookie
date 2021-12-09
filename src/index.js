@@ -1,2 +1,2 @@
-import SvelteCookie from './SvelteCookie.svelte';
-export default SvelteCookie;
+import { getCookie, setCookie, deleteCookie } from './SvelteCookie.svelte';
+export { getCookie, setCookie, deleteCookie };
