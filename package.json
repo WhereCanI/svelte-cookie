@@ -1,0 +1,32 @@
+{
+  "name": "svelte-cookie",
+  "version": "1.0.0",
+  "description": "An easy way to handle cookies in Svelte.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "svelte": "src/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Svelte",
+    "Cookie"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WhereCanI/svelte-cookie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WhereCanI/svelte-cookie/issues"
+  },
+  "author": "Michael Andersen (Github: WhereCanI)",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.61.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-svelte": "^7.1.0",
+    "svelte": "^3.44.2"
+  }
+}
