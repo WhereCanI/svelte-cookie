@@ -96,3 +96,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/WhereCanI/Sv
 ## Authors
 
 * **Michael Andersen** - *Frontend web developer* - [Michael Andersen](https://github.com/WhereCanI/) - *Built Svelte-Cookie*
+
+[SustainableWWW](https://sustainablewww.org) - Learn about environmentally friendly and ethical web design.
