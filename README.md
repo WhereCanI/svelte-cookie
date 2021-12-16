@@ -12,7 +12,8 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/WhereCanI/Svelte-Cookie/total) ![Contributors](https://img.shields.io/github/contributors/WhereCanI/Svelte-Cookie?color=dark-green) ![Issues](https://img.shields.io/github/issues/WhereCanI/Svelte-Cookie) ![License](https://img.shields.io/github/license/WhereCanI/Svelte-Cookie) 
+[![npm version](https://badge.fury.io/js/svelte-cookie.svg)](https://badge.fury.io/js/svelte-cookie) ![Contributors](https://img.shields.io/github/contributors/WhereCanI/Svelte-Cookie?color=dark-green) ![Issues](https://img.shields.io/github/issues/WhereCanI/Svelte-Cookie) ![License](https://img.shields.io/github/license/WhereCanI/Svelte-Cookie)
+
 
 ## Table Of Contents
 
